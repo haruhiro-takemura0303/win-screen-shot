@@ -7,13 +7,7 @@ import sys
 import os
 import json
 
-# 実行時に引数を受け取る 
 args = sys.argv[1:]
-
-left_up_x = 100
-left_up_y = 100 
-right_down_x = 100
-right_down_y = 100
 
 class Param:
     def __init__(self):
